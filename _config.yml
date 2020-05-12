@@ -56,7 +56,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-include: [_pages, _dicas, _cursos, download, blog]
+include: [_pages, _dicas, _cursos, download, blog, img]
 
 #livereload: true
 
