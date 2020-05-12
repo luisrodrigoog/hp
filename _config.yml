@@ -25,6 +25,9 @@ permalink: /blog/:categories/:year/:month/:day/:title:output_ext
 paginate: 5
 paginate_path: "/blog/page:num"
 
+disqus:
+    shortname: luisrodrigoog
+
 plugins:
 - github-pages
 - jekyll-sitemap
@@ -33,7 +36,6 @@ plugins:
 - jekyll-seo-tag
 - kramdown
 - rouge
-
 
 
 # Exclude from processing.
