@@ -18,20 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
-#baseurl: "" # the subpath of your site, e.g. /blog
+# Site Settings
+title: LRodrigo WebSite
+tagline: LRodrigo WebSite
+email: luisrodrigoog@gmail.com
+description: >
+  Site pessoal de LRodrigo com meu material de aula e dias sobre o mundo Linux e Python.
 baseurl: "/hp"
+# the base hostname & protocol for your site, e.g. http://example.com
+url: "https://luisrodrigoog.github.io" 
 
-url: "https://luisrodrigoog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: luisrodrigoog 
+github_username:  luisrodrigoog
+gh_sponsor: luisrodrigoog
 
 # Build settings
 #theme: minima
@@ -40,8 +39,22 @@ github_username:  jekyll
 
 remote_theme: chrisrhymes/bulma-clean-theme
 
+#permalink: pretty
+permalink: /blog/:categories/:year/:month/:day/:title:output_ext
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
 plugins:
 - github-pages
+- jekyll-sitemap
+- jekyll-paginate
+- jekyll-feed
+- jekyll-seo-tag
+- kramdown
+- rouge
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -62,3 +75,42 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include: [_pages, _dicas, _cursos, download, blog]
+
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "LRodrigo"
+      layout: post
+      image: https://via.placeholder.com/1200x800
+      show_sidebar: true
+
+markdown: kramdown
+highlighter: rouge
+
+#footer_menu: example_footer_menu
+
+collections:
+  products:
+    output: true
+    layout: product
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
+
+
