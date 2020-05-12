@@ -1,1 +1,30 @@
-
+- name: Cursos
+  link: /#
+  dropdown:
+    - name: Laboratório de Informática
+      link: /cursos/laboratorio-informatica-1/
+    - name: Princípio de Comunicação de Dados
+      link: /page-1/    
+    - name: Segurança da Informação
+      link: /page-1/
+    - name: Programação para Web
+      link: /page-1/
+    - name: Matemática para Biomedicina
+      link: /page-1/
+- name: Dicas
+  link: /#
+  dropdown:
+    - name: Gerência de Redes
+      link: /page-1/
+    - name: Linux
+      link: /page-1/    
+    - name: Mac OS X
+      link: /page-1/
+    - name: Programação 
+      link: /page-1/
+    - name: Redes
+      link: /page-1/
+    - name: Segurança 
+      link: /page-1/
+- name: Blog
+  link: /blog/ 
