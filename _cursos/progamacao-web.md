@@ -18,42 +18,49 @@ Este curso se destina a fornecer aos alunos a base de conhecimento necessária p
 
  
 ## Tópicos:
-- Introdução do Linux
-- Visão histórica 
-- Principais comandos
+- Histórico das linguagens HTML e CSS;
+- Conceito sobre Tags;
+- Estrutura de uma página html;
+- Elementos estruturais e de texto;
+- Formulários;
+- Video e Audio;
+- Fundamentos do CSS;
+- Box Model;
+- Posicionamento de objetos;
+- Seletores, cascata e herança;
+- Background;
+- Bordas e Sombras;
+- Cores e Opacidade;
+- Fontes;
+- Colunas;
+- Bootstrap.
 
 ## Bibliografia:
-* Livros 1
+* Lawson, Bruce; Sharp, Remy, Introdução ao HTML 5, Ed. Alta Books, 2011
+* Silva, Maurício Samy, Desenvolva aplicações web profissionais com o uso dos poderosos recursos de estilização das CSS3, Ed. Novatec, 2012
+* Meyer, Jainine, O guia Essencial do HTML5, Ed. Ciência Moderna, 2011
 
 ## Conteúdo Programático
 
-    1. Introdução
-    1.1 O Linux
-    1.2 Histórico do Unix
-    1.3 Características do Unix
-    1.4 Kernel x Shell
-    1.5 Processo de Instalação do Linux
-    1.6 Estrutura hierárquica de diretórios
-    1.7 Usuários
-    1.8 Variáveis de Ambiente 
-    2. Comandos Básicos
-    2.1 Conectando-se e desconectando-se do sistema
-    2.2 Gerenciamento de Arquivos
-    2.3 Copiando, removendo, movendo e renomeando arquivos
-    2.4 Exibindo o conteúdo de arquivos texto
-    2.5 Links
-    2.6 Comparando arquivos
-    2.7 Invocando o sistema de ajuda
-    2.8 Permissões e controle de acesso aos arquivos
-    2.9 Redirecionadores de E/S
-    2.10 Editores de Texto
-    2.11 Localizando arquivos
-    2.12 Manipulação de Texto
-    2.13 Sistema de Arquivos
-    2.14 Processos
-    2.15 Compressão e Backup
-    2.16 Data e Hora
-    2.17 Video
+# Visão histórica da Internet, seus protocolos e da linguagem HTML
++ Linguagem HTML – Parte 1
+    * Introdução
+    * Estrutura Principal
+    * Elementos Estruturais
+    * Elementos de Texto
+    * Formulários
++ Linguagem CSS
+    * Fundamentos
+    * Box Model
+    * Posicionamento
+    * Seletores, cascata e herança
+    * Background
+    * Bordas e Sombras
+    * Cores e Opacidade
+    * Fontes
+    * Colunas
+    * Gradientes
++ Bootstrap
 
 ## Material de Aula:
 
