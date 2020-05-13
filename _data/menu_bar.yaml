@@ -7,7 +7,7 @@
       items:
         - name: Arquitetura de Computadores
           link: /cursos/arquitetura-computadores/
-        - name: Estatistica - Marketing e Comunicação
+        - name: Estatística - Marketing e Comunicação
           link: /cursos/estatistica-marketing/
         - name: Laboratório de Informática I
           link: /cursos/laboratorio-informatica-1/
@@ -15,22 +15,29 @@
           link: /cursos/logica-em-computacao/
         - name: Programação Web
           link: /cursos/programacao-web/
-        - name: Programacao II - Matlab
+        - name: Programação II - Matlab
           link: /cursos/programacao-matlab/
         - name: Matemática para Administração
           link: /cursos/matematica-administracao/          
         - name: Matemática para Biomedicina
           link: /cursos/matematica-biomedicina/
-        - name: Programacao II - Matlab
+        - name: Programação II - Matlab
           link: /cursos/programacao-matlab/   
         - name: Segurança da Informação
-          link: /cursos/seg-info/             
+          link: /cursos/seg-info/
+        - name: Sistema Operacionais 
+          link: /cursos/sistema-operacionais/            
     - name: Trabalho de Conclusão de Curso
       link: #
       items:
         - name: Projeto de TCC
           link: /cursos/projeto-tcc/     
         - name: TCC
-          link: /cursos/tcc/    
+          link: /cursos/tcc/
+    - name: Pós-Graduação
+      link: #
+      items:
+        - name: Tecnologia da Informação
+          link: /cursos/pos-graduacao-tecnologia-informacao/       
     - name: Blog
       link: /blog/

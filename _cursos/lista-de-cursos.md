@@ -11,8 +11,13 @@ toc: true
 toc_title: Indice
 ---
 
-# Programação para WEB
+# Cursos de Graduação e Pós-Graduação
 
-Há várias linguagens e plataformas que podem ser utilizadas no desenvolvimento de sites e aplicações baseadas na WEB, mas quase todas elas se apoia no HTML e no CSS, o framework Bootstrap é um exemplo disto.
+Já faz muito tempo que me apaixonei pela Sala de aula e pela vida louca dos professores. Nestes últimos vários anos tenho atuado como professor Universitário e com isto colecionado várias disciplinas e vários materiais. 
 
-Este curso se destina a fornecer aos alunos a base de conhecimento necessária para lidar suas atividades no desenvolvimento de sites estáticos e simples
+Esta parte do site dedica-se as ultimas disciplinas que lecionei e para as quais ainda tenho o conteúdo das aulas. 
+
+{:refdef: style="text-align: center;"}
+![A imagem não carregou :( ]({{ site.url }}{{ site.baseurl }}/img/destaque-arvore-02.png){:class="img-responsive"}
+{: refdef}
+
