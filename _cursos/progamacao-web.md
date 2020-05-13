@@ -1,17 +1,20 @@
 ---
-title: Laboratório de Informática I
-subtitle: Curso introdutório de Linux, incluindo comandos básicos e shell script
+title: Programação Web
+subtitle: Curso de programação para Web. Neste estudaremos um pouco sobre as principais tags do HTML5 e várias propriedades do CSS3
+description: Curso de Programação WEB - HTML5 E CSS3
 layout: page
 hero_image: /hp/img/topo-001.jpg
 show_sidebar: false
-permalink: /cursos/laboratorio-informatica-1/
+permalink: /cursos/programacao-web/
 toc: true
 toc_title: Indice
 ---
 
-# Laboratório de Informática I -  Introdução ao Linux
+# Programação para WEB
 
-Apresentar de forma clara e objetiva os principais conceitos de comandos relacionados ao sistema operacional Linux e às suas principais distribuições
+Há várias linguagens e plataformas que podem ser utilizadas no desenvolvimento de sites e aplicações baseadas na WEB, mas quase todas elas se apoia no HTML e no CSS, o framework Bootstrap é um exemplo disto.
+
+Este curso se destina a fornecer aos alunos a base de conhecimento necessária para lidar suas atividades no desenvolvimento de sites estáticos e simples
 
  
 ## Tópicos:

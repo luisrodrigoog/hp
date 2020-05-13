@@ -2,6 +2,7 @@
 title: Sejam bem vindos ao meu Site
 subtitle: Nele disponibilizo meus materiais de aula e dicas sobre o mundo Linux e Python.
 layout: page
+hero_image: /hp/img/topo-001.jpg
 ---
 
 #LRodrigo:Home Page 

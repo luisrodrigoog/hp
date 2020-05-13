@@ -4,27 +4,27 @@
     - name: Laboratório de Informática
       link: /cursos/laboratorio-informatica-1/
     - name: Princípio de Comunicação de Dados
-      link: /page-1/    
+      link: /cursos/pcd/   
     - name: Segurança da Informação
-      link: /page-1/
+      link: /cursos/seguranca-da-info/
     - name: Programação para Web
-      link: /page-1/
+      link: /cursos/programacao-web/
     - name: Matemática para Biomedicina
-      link: /page-1/
+      link: /cursos/matematica-biomed/
 - name: Dicas
   link: /#
   dropdown:
     - name: Gerência de Redes
-      link: /page-1/
+      link: /dias/gerencia-de-rede/
     - name: Linux
-      link: /page-1/    
+      link: /dias/linux/   
     - name: Mac OS X
-      link: /page-1/
+      link: /dias/macOs/ 
     - name: Programação 
-      link: /page-1/
+      link: /dias/programacao/  
     - name: Redes
-      link: /page-1/
+      link: /dias/rede/ 
     - name: Segurança 
-      link: /page-1/
+      link: /dias/seginfo/ 
 - name: Blog
   link: /blog/ 
