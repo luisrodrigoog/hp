@@ -5,11 +5,32 @@
     - name: Listagem dos Cursos
       link: #
       items:
+        - name: Arquitetura de Computadores
+          link: /cursos/arquitetura-computadores/
+        - name: Estatistica - Marketing e Comunicação
+          link: /cursos/estatistica-marketing/
         - name: Laboratório de Informática I
           link: /cursos/laboratorio-informatica-1/
+        - name: Lógica em Computação
+          link: /cursos/logica-em-computacao/
         - name: Programação Web
           link: /cursos/programacao-web/
         - name: Programacao II - Matlab
           link: /cursos/programacao-matlab/
+        - name: Matemática para Administração
+          link: /cursos/matematica-administracao/          
+        - name: Matemática para Biomedicina
+          link: /cursos/matematica-biomedicina/
+        - name: Programacao II - Matlab
+          link: /cursos/programacao-matlab/   
+        - name: Segurança da Informação
+          link: /cursos/seg-info/             
+    - name: Trabalho de Conclusão de Curso
+      link: #
+      items:
+        - name: Projeto de TCC
+          link: /cursos/projeto-tcc/     
+        - name: TCC
+          link: /cursos/tcc/    
     - name: Blog
       link: /blog/
