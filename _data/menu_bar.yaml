@@ -1,0 +1,15 @@
+- label: Cursos
+  items:
+    - name: Home
+      link: /
+    - name: Listagem dos Cursos
+      link: #
+      items:
+        - name: Laboratório de Informática I
+          link: /cursos/laboratorio-informatica-1/
+        - name: Programação Web
+          link: /cursos/programacao-web/
+        - name: Programacao II - Matlab
+          link: /cursos/programacao-matlab/
+    - name: Blog
+      link: /blog/

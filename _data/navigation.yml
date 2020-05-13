@@ -12,7 +12,7 @@
     - name: Matemática para Biomedicina
       link: /cursos/matematica-biomed/
     - name: Lista dos cursos
-  link: /cursos/lista-de-cursos/
+      link: /cursos/lista-de-cursos/
 - name: Dicas
   link: /#
   dropdown:
