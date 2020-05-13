@@ -65,7 +65,7 @@ Este curso se destina a fornecer aos alunos a base de conhecimento necessária p
 ## Material de Aula:
 
 * Apostila : 
-    * Março de 2019 - [PDF]({{ site.url }}{{ site.baseurl }}/download/UCP-Laboratorio-de-Informatica-I-2019.01-2019.03.26-V2.pdf)
+
 
 ## Material de Apoio disponível na Internet:
 
