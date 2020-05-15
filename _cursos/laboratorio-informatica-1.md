@@ -57,9 +57,17 @@ Apresentar de forma clara e objetiva os principais conceitos de comandos relacio
 * Apostila : 
     * Março de 2019 - [PDF]({{ site.url }}{{ site.baseurl }}/download/UCP-Laboratorio-de-Informatica-I-2019.01-2019.03.26-V2.pdf)
 
-## Material de Apoio disponível na Internet:
+* Aulas
+    * Aula 01 - Comandos Básicos - [PDF]({{ site.url }}{{ site.baseurl }}/download/UCP-Laboratorio-de-Informatica-I-Parte-02-Aula-01-Comandos Basicos-comp.pdf)
 
-* Sites da Internet: 
 
+## Material de Apoio:
+
+* **Apostilas Antigas**:
+    * Laboratório de Informática I - [PDF]({{ site.url }}{{ site.baseurl }}/download/Linux-Apostila-Lab01-ver-4.1-2007.09.12.pdf)
+    * Laboratório de Informática II - [PDF]({{ site.url }}{{ site.baseurl }}/download/Linux-Apostila-lab02-2007.09.12.pdf)
+    * Shell Script - [PDF]({{ site.url }}{{ site.baseurl }}/download/Linux-Apostila-Linux-Admin-ShellScript-2008.2.pdf)
+
+{:refdef: style="text-align: center;"}
 ![Alt text]({{ site.url }}{{ site.baseurl }}/img/barra05.png)
-
+{: refdef}
