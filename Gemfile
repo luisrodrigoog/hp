@@ -2,4 +2,6 @@ source 'https://rubygems.org'
 gem "bulma-clean-theme", '0.7.2'
 gem 'github-pages', group: :jekyll_plugins
 
-gem "jekyll", github: "jekyll/jekyll"
+
+gem "activesupport", ">= 6.0.3.1"
+
