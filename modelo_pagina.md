@@ -4,7 +4,7 @@ subtitle: Curso sobre Arquitetura de Computadores
 description: Curso sobre Arquitetura de Computadores 
 layout: page
 hero_image: /hp/img/topo-001.jpg
-hero_height: is-fullheight
+
 image: /hp/img/destaque-004.png
 show_sidebar: false
 permalink: /modelo_pagina/

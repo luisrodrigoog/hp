@@ -5,7 +5,7 @@ description: Descrição
 layout: post
 hero_image: /hp/img/topo-001.jpg
 image: /hp/img/barra01.png
-date:   2020-05-11 21:36:31 -0300
+date: 2020-05-11 21:36:31 -0300
 comments: true
 categories: jekyll update
 lang: pt-br
