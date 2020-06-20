@@ -55,9 +55,26 @@ Este curso tem por objetivo permitir ao aluno conhecer  as técnicas usadas na i
 * **FOROUZAN, Behrouz A.** Comunicação de dados e redes de computadores. Colaboração de Sophia Chung Fegan. Tradução de Ariovaldo Griesi. 4.ed. São Paulo: McGraw Hill, 2008. 1134p., il. ISBN 9788586804885. 
 
 
-## Material de Aula:
+## Material Didático:
 
-* Apostila : 
+## Aulas :
+- ***Aula 00*** : Preparando o ambiente
+    - [**Apresentacão**](../../download/PCD-Parte00-Aula-01-Preparando_o_ambiente-Rocket-Launched-v1.0-2020.02.16.pdf "Preparando o Ambiente")
+    - [**Procedimentos**](../../download/PCD-Parte00-Aula-01-Preparando_o_ambiente-Atividade-01-2020.03.30.pdf "Preparando o Ambiente")
+- ***Aula 01*** : Conceitos Básicos
+    - [**Apresentacão**](../../download/PCD-Parte01-Aula-01-Conceitos_Basicos-2020.04.20-reduzido.pdf "Conceitos Básicos")
+- ***Aula 02*** : Revisão sobre Redes e Sockets
+    - [**Apresentacão**](../../download/PCD-Parte02-Aula-01-PCD-Sockets-Revisao_de_Redes-2020.02.16-reduzido.pdf "Revisão e Sockets")
+- ***Aula 03*** : Python
+    - [**Parte 1 - Introdução**](../../download/PCD-Parte02-Aula-03-Python-2020.03.30-comp.pdf "Introdução")
+    - [**Parte 2 - Laços e Funções**](../../download/PCD-Parte02-Aula-04-Python-2020.05.16.pdf "Laços e Repetição")
+
+
+
+
+    
+
+
 
 
 ## Material de Apoio disponível na Internet:
