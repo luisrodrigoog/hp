@@ -10,7 +10,7 @@ url: "https://luisrodrigoog.github.io"
 
 twitter_username: luisrodrigoog 
 github_username:  luisrodrigoog
-gh_sponsor: luisrodrigoog
+#gh_sponsor: luisrodrigoog
 
 # Build settings
 #theme: minima
@@ -62,7 +62,7 @@ google_analytics: UA-52297903-2
 #   - vendor/gems/
 #   - vendor/ruby/
 
-include: [_pages, _dicas, _cursos, download, blog, img]
+include: [_pages, _dicas, _cursos, _includes,  download, blog, img]
 
 #livereload: true
 
@@ -70,22 +70,23 @@ include: [_pages, _dicas, _cursos, download, blog, img]
 #  style: compressed
 #  source_dir: _sass
 
-#defaults:
+defaults:
 #  -
 #    scope:
 #      path: ""
 #      type: "pages"
 #    values:
 #      show_sidebar: true
-#  -
-#    scope:
-#      path: ""
-#      type: "posts"
-#    values:
-#      author: "LRodrigo"
-#      layout: post
-#      image: https://via.placeholder.com/1200x800
-#      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "LRodrigo"
+      layout: post
+      image: /hp/img/topo-001.jpg
+      hero_image: /hp/img/topo-001.jpg
+      show_sidebar: true
 
 #markdown: kramdown
 #highlighter: rouge

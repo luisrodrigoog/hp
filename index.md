@@ -5,15 +5,16 @@ layout: page
 hero_image: /hp/img/topo-001.jpg
 ---
 
-LRodrigo:HomePage 
-========================
+# LRodrigo:HomePage 
 
-Olá pessoal! Sejam bem-vindos ao meu Site.
---------------------------------------------
+
+## Olá pessoal! 
+## Sejam bem-vindos ao meu Site.
+
 
 Aqui disponibilizo meus materiais de aula e algumas dicas sobre o mundo Linux e Python.
 
-O objetivo do site é facilitar a divulgação de conhecimento e informação. Pretendo utiliza-lo para disponibilizar um pouco dos resultados obtidos com as minhas "experiencias" diárias. 
+O objetivo do site é facilitar a divulgação de conhecimento e informação. Pretendo utiliza-lo para disponibilizar um pouco dos resultados obtidos com as minhas *experiencias* diárias. 
 
 Pretendo atualizar o site sempre que for possível, mas o possível nem sempre é no tempo que gostaríamos.
 
